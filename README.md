@@ -1,63 +1,63 @@
-<div align="center">
-
 # Omar Hassan
 
 ### Computer & Software Engineer
 
-**Backend Systems · AI/ML · Computer Vision**
+> **Backend Systems · AI/ML · Computer Vision · Embedded Systems**
 
-Building practical software across backend services, machine learning, distributed applications, and embedded systems.
+I build practical software across backend services, machine learning, distributed systems, networking, and embedded applications.
 
-**Open to:** Software Engineering · Backend Engineering · AI/ML · Graduate & Internship Opportunities
-
-</div>
+**Open to:** Software Engineering · Backend Engineering · AI/ML · Graduate and Internship Opportunities
 
 ---
 
-## About
+## ⚡ Technical Focus
 
-I am a computer and software engineer focused on reliable, useful systems. My work spans backend development, machine learning, computer vision, distributed systems, networking, automation, and embedded applications.
+**Languages**  
+Python · Java · C · C++ · JavaScript
+
+**Backend & Web**  
+REST APIs · React · MySQL · HTML/CSS
+
+**Engineering Areas**  
+Machine Learning · Computer Vision · Distributed Systems · Networking · Embedded Systems
+
+**Tools**  
+Git · GitHub Actions · Linux
 
 ---
 
-## Technical Strengths
+## 📌 Featured Projects
 
-**Languages:** Python · Java · C · C++ · JavaScript  
-**Backend & Web:** Flask · REST APIs · React · HTML/CSS · MySQL  
-**Engineering Areas:** Machine Learning · Computer Vision · Distributed Systems · Networking · Embedded Systems  
-**Tools:** Git · GitHub Actions · Linux
-
----
-
-## Selected Work
-
-### [ShareClean](https://github.com/OmarH-creator/ShareClean)
+### 🛡️ [ShareClean](https://github.com/OmarH-creator/ShareClean)
 Local-first Python CLI for sanitizing logs, stack traces, configuration snippets, and terminal output before sharing.
 
-**Python · CLI · Security Tooling · CI · [Live Demo](https://omarh-creator.github.io/ShareClean/)**
+`Python` · `CLI` · `Developer Tooling` · `CI` · [Live Demo](https://omarh-creator.github.io/ShareClean/)
 
-### [Flask ChatGPT Telegram Bot](https://github.com/OmarH-creator/Flask-ChatGPT-TelegramBot-Vercel)
-Backend integration using Flask, APIs, automation, and deployment tooling.
+### ⚙️ [Distributed Load Balancing](https://github.com/OmarH-creator/Distributed_Load_Balancing)
+A systems project exploring workload distribution, coordination, and performance across distributed components.
 
-**Python · Flask · APIs · Automation**
+`Distributed Systems` · `Networking` · `System Design`
 
-### [Distributed Load Balancing](https://github.com/OmarH-creator/Distributed_Load_Balancing)
-A systems project exploring workload distribution, coordination, and performance.
+### 👁️ [CatDog Detector](https://github.com/OmarH-creator/CatDog-Detector)
+An image-classification project applying machine-learning and computer-vision workflows.
 
-**Distributed Systems · Networking**
+`Machine Learning` · `Computer Vision` · `Image Classification`
 
-### [CatDog Detector](https://github.com/OmarH-creator/CatDog-Detector)
-An image-classification project demonstrating applied machine-learning and computer-vision workflows.
+### 🏠 [Smart Home Embedded](https://github.com/OmarH-creator/Smart_Home_Embedded)
+An embedded-systems application focused on smart-home functionality through hardware and software integration.
 
-**Machine Learning · Computer Vision**
-
-### [Smart Home Embedded](https://github.com/OmarH-creator/Smart_Home_Embedded)
-An embedded-systems application focused on smart-home functionality.
-
-**Embedded Systems · Hardware/Software Integration**
+`Embedded Systems` · `Hardware/Software Integration`
 
 ---
 
-## Opportunities
+## 🎯 What I Bring
 
-I am interested in software engineering, backend engineering, and AI/ML engineering roles, including internships and graduate opportunities. Please see the repositories pinned on my profile for a quick overview of my work.
+- **Backend and developer tooling:** Python services, REST APIs, automation, and practical CLI applications.
+- **Intelligent systems:** Machine-learning and computer-vision projects with clear use cases.
+- **Systems thinking:** Distributed applications, networking, and embedded development.
+
+---
+
+### Let’s build useful software.
+
+Explore the repositories pinned on my profile for the projects I am most proud of.
