@@ -34,12 +34,12 @@ I am a computer and software engineer focused on building reliable, practical sy
 
 ## Selected Projects
 
-| Project                                                                                         | Description                                                                                                                                    | Focus                              |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [ShareClean](https://github.com/OmarH-creator/ShareClean)                                       | Local-first Python CLI that redacts sensitive information from logs, configuration snippets, terminal output, and stack traces before sharing. | Python · CLI · Security Tooling    |
-| [CatDog Detector](https://github.com/OmarH-creator/CatDog-Detector)                             | Computer vision project for image classification.                                                                                              | Machine Learning · Computer Vision |
-| [Distributed Load Balancing](https://github.com/OmarH-creator/Distributed_Load_Balancing)       | Project exploring workload distribution, coordination, and system performance.                                                                 | Distributed Systems                |
-| [Smart Home Embedded](https://github.com/OmarH-creator/Smart_Home_Embedded)                     | Embedded systems application for smart-home functionality.                                                                                     | Embedded Systems                   |
+| Project | Description | Focus |
+|---|---|---|
+| [ShareClean](https://github.com/OmarH-creator/ShareClean) | Local-first Python CLI that redacts sensitive information from logs, configuration snippets, terminal output, and stack traces before sharing. | Python · CLI · Security Tooling |
+| [CatDog Detector](https://github.com/OmarH-creator/CatDog-Detector) | Computer vision project for image classification. | Machine Learning · Computer Vision |
+| [Distributed Load Balancing](https://github.com/OmarH-creator/Distributed_Load_Balancing) | Project exploring workload distribution, coordination, and system performance. | Distributed Systems |
+| [Smart Home Embedded](https://github.com/OmarH-creator/Smart_Home_Embedded) | Embedded systems application for smart-home functionality. | Embedded Systems |
 
 ---
 
@@ -74,15 +74,15 @@ I am a computer and software engineer focused on building reliable, practical sy
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/OmarH-creator/OmarH-creator/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/OmarH-creator/OmarH-creator/output/github-contribution-grid-snake-dark.svg?v=20260701"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/OmarH-creator/OmarH-creator/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/OmarH-creator/OmarH-creator/output/github-contribution-grid-snake.svg?v=20260701"
     />
     <img
       alt="GitHub contribution animation"
-      src="https://raw.githubusercontent.com/OmarH-creator/OmarH-creator/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/OmarH-creator/OmarH-creator/output/github-contribution-grid-snake.svg?v=20260701"
     />
   </picture>
 </p>
