@@ -15,13 +15,13 @@ Building practical software and developer tools.
 
 ## Selected Work
 
-**[ShareClean](https://github.com/OmarH-creator/ShareClean)** — Local-first Python CLI that removes sensitive data from logs and text before sharing. [Live demo](https://omarh-creator.github.io/ShareClean/)
+**[ShareClean](https://github.com/OmarH-creator/ShareClean)** Local-first Python CLI that removes sensitive data from logs and text before sharing. [Live demo](https://omarh-creator.github.io/ShareClean/)
 
-**[Distributed Load Balancing](https://github.com/OmarH-creator/Distributed_Load_Balancing)** — Workload distribution and coordination in distributed systems.
+**[Distributed Load Balancing](https://github.com/OmarH-creator/Distributed_Load_Balancing)** Workload distribution and coordination in distributed systems.
 
-**[CatDog Detector](https://github.com/OmarH-creator/CatDog-Detector)** — Image classification with machine learning and computer vision.
+**[CatDog Detector](https://github.com/OmarH-creator/CatDog-Detector)** Image classification with machine learning and computer vision.
 
-**[Smart Home Embedded](https://github.com/OmarH-creator/Smart_Home_Embedded)** — Smart-home functionality through hardware and software integration.
+**[Smart Home Embedded](https://github.com/OmarH-creator/Smart_Home_Embedded)** Smart-home functionality through hardware and software integration.
 
 ---
 
