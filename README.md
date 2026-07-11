@@ -9,6 +9,10 @@
 Building practical software and developer tools.  
 **Open to software engineering, backend, AI/ML, graduate, and internship opportunities.**
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=OmarH-creator&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
 </div>
 
 ---
